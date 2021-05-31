@@ -1,0 +1,8 @@
+{
+    "data_root":"/mnt/sdc5/Work/Tatras/Common_Data/LJ Speech ASR Dataset/",
+    "audio_dir":"wavs",
+    "label_file":"metadata.csv",
+    "time_sorted_csv":"time_sorted_audio_list",
+    "train_test_ratio":0.2
+}
+
